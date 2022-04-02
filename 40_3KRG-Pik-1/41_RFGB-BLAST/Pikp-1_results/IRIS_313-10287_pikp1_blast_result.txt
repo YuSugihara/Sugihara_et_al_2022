@@ -1,0 +1,168 @@
+BLASTN 2.7.1+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: ../scaffolds/IRIS_313-10287.gapclosed.scaf
+           144,581 sequences; 289,348,280 total letters
+
+
+
+Query= Pikp1
+
+Length=3429
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+scaffold24705  4.0                                                    708     0.0  
+scaffold71047  5.4                                                    169     1e-39
+
+
+>scaffold24705  4.0
+Length=10357
+
+ Score = 708 bits (383),  Expect = 0.0
+ Identities = 980/1261 (78%), Gaps = 70/1261 (6%)
+ Strand=Plus/Minus
+
+Query  1128  AAAG-TATCTCATTGTAATCGATGACATTTGGCATTGGGAAGAATGGGAAGTCATCAGAA  1186
+             |||| ||||| ||| |||| |||||| ||||||  |||||||| ||||||||||||||||
+Sbjct  6710  AAAGATATCTTATTATAATTGATGACGTTTGGCGCTGGGAAGAGTGGGAAGTCATCAGAA  6651
+
+Query  1187  AGTCCATTCCCAAGAATGATCTGGGTGGTAGAATAATCATGACTACTCGTCTTAATTCAA  1246
+             |||||||||| ||||||||||||||| | |||||||||||||||||||||||||||||||
+Sbjct  6650  AGTCCATTCCAAAGAATGATCTGGGTAGCAGAATAATCATGACTACTCGTCTTAATTCAA  6591
+
+Query  1247  TAGCTGAGAAGTGCCACACTGATGACAATGATGTTTTTGTCTACGAAGTTGGGGATCTAG  1306
+             ||||||||||||| | || ||||||||  ||||  ||||| || |||  || || ||| |
+Sbjct  6590  TAGCTGAGAAGTGTCGCAATGATGACATGGATGCGTTTGTTTATGAAACTGAGGCTCTGG  6531
+
+Query  1307  ATAATAATGATGCTTTGTCGTTGTCTTGGGGGATAGCAACAAAGTCTGGGGCAGGCAACA  1366
+             || ||   ||||||| |  ||||| |     | |||||| ||||||||   ||  | |  
+Sbjct  6530  ATTATGTGGATGCTTGGCTGTTGTGTGACAAGGTAGCAAGAAAGTCTG--TCA--C-A-T  6477
+
+Query  1367  GGATCGGAACTGGAGAGGATAATCCATGCTATGATATTGTGAACATGTGTTATGGTATGC  1426
+             | ||  ||||     |   |||||||||||||||||| ||| || |||| ||||||||||
+Sbjct  6476  GTAT--GAAC-----A--TTAATCCATGCTATGATATCGTGGACGTGTGCTATGGTATGC  6426
+
+Query  1427  CTTTAGCACTTATTTGGCTGTCGTCAGCATTGGTTGGAGAGATAGAAGAATTAGGTGGTG  1486
+             | |||||||| ||| |  |||||||||||||||  | ||||||| |||  ||||   |||
+Sbjct  6425  CGTTAGCACTAATTCGTGTGTCGTCAGCATTGGCAGAAGAGATACAAGCTTTAGACAGTG  6366
+
+Query  1487  CTGAAGTGAAAAAATGTAGGGATTTGAGACACATAGAGGATGGTATTTTGGACATCCCAT  1546
+              ||||  | ||| ||| |||| | ||||||   |||||||||||||||||||||||||||
+Sbjct  6365  ATGAATGGCAAATATGGAGGGCTCTGAGACGGGTAGAGGATGGTATTTTGGACATCCCAT  6306
+
+Query  1547  CCTTACAACCATTGGCGGAGAGTTTATGCCTTGGTTATAACCATCTTCCTCTTTATCTGA  1606
+             ||||  | |||||||| ||||||||||||||||||||  ||||||||||||| |||||||
+Sbjct  6305  CCTTGAAGCCATTGGCAGAGAGTTTATGCCTTGGTTACGACCATCTTCCTCTCTATCTGA  6246
+
+Query  1607  GGACTTTGTTGTTGTACTGTAGTGCATACCATTGGTCTAACAGA---ATCG---AAAGGG  1660
+             ||||||||||||| |  |||||||  |||||||||  | |  |    || |   ||||||
+Sbjct  6245  GGACTTTGTTGTTATGTTGTAGTGTGTACCATTGGCTTGATGGTGGGATTGTTCAAAGGG  6186
+
+Query  1661  GTCGTCTGGTCAGGAGGTGGATTGCGGAAGGATTTGTGTCGGAAGAGAAAGAAGCAGAAG  1720
+             | ||| ||||||  ||||||||||| ||||||||||| || |||||||||| ||||||||
+Sbjct  6185  GCCGTTTGGTCACAAGGTGGATTGCTGAAGGATTTGTTTCAGAAGAGAAAGCAGCAGAAG  6126
+
+Query  1721  GTTACTTTGGCGAGCTTATTAACAGAGGATGGATTACGCAGCACGGAGACAACAACAGTT  1780
+             |||||||||  |||||| |  ||||||||||||||| |||  | | ||     ||| |  
+Sbjct  6125  GTTACTTTGATGAGCTTGTCGACAGAGGATGGATTAAGCAT-A-G-AGGGTGGAAC-G--  6072
+
+Query  1781  ATAATTACTATGAGATCCACCCCGTGATGCTGGCCTTCCTGAGATGCAAGTCCAAGGAGT  1840
+             |       ||||||||| ||||  ||||||||||| |||| |||| |||||| |||||||
+Sbjct  6071  AG------TATGAGATCTACCCTATGATGCTGGCCATCCTTAGATACAAGTCGAAGGAGT  6018
+
+Query  1841  ACAATTTTTTAACATGCTTGGGTCTGGGATCTGATACTAGTACTAGTGCATC-CT--CC-  1896
+             |||||||| |||| || ||||||  ||||| ||||||| ||||||||||||| ||  || 
+Sbjct  6017  ACAATTTTGTAACTTGTTTGGGTACGGGATTTGATACTTGTACTAGTGCATCTCTATCCT  5958
+
+Query  1897  -C-C------AAGGTT---GATTCGCCGGCTGTCTCTTCAgggggggTATCCAGTGGACT  1945
+              | |      ||   |   |||||||||||| | ||||||  ||||||| ||| || | |
+Sbjct  5957  ACTCCTCTCCAACAATGGCGATTCGCCGGCTTTGTCTTCAAAGGGGGTACCCAATGAAAT  5898
+
+Query  1946  GCTTGTCAAGCATGAGTATGGATGTGTCACACACTTGCAGCCTTGTCGTCCTTGGTGACG  2005
+             |||| |||||      ||||||||||||||||||| ||||||||||  ||||||| ||||
+Sbjct  5897  GCTTCTCAAG------TATGGATGTGTCACACACTCGCAGCCTTGTTATCCTTGGCGACG  5844
+
+Query  2006  TGGCGCGACCCAAGGGAATCCCCTTCTATATGTTTAAGCGCTTGCGAGTGTTGGACCTTG  2065
+             ||     |   |  ||| |||||||  ||||||||||  | |||||||||||||||||||
+Sbjct  5843  TG-----AT--A--GGAGTCCCCTTGGATATGTTTAAAAGATTGCGAGTGTTGGACCTTG  5793
+
+Query  2066  AAGATAATAAGGATATACAGGATTCTCATCTGCAGGGCATATGCGAACAGTTA-AG--CC  2122
+             |||||||||  | |||| |||| || || ||| ||   ||||| || ||| || ||  ||
+Sbjct  5792  AAGATAATATCGGTATAGAGGACTCCCACCTGAAGAAGATATGTGAGCAGCTAGAGAGCC  5733
+
+Query  2123  TCAGAGTG---AGGTACCTTGGTCTCAAGGGAACGCGGATCCGAAAGCTCCCTCAGGAGA  2179
+             ||||  ||   | |||||| ||||||||||| ||||| |||   |||||||| |||||||
+Sbjct  5732  TCAGGCTGCTCAAGTACCTAGGTCTCAAGGGTACGCGAATCACTAAGCTCCCACAGGAGA  5673
+
+Query  2180  TGAGGAAGCTGAAGCATTTGGAGATTTTGTATGTGGGGAGCACTCGGATCAGTGAACTTC  2239
+             |   ||||||||||||| ||||||||||||| ||| |||||||  | ||||  || || |
+Sbjct  5672  TACAGAAGCTGAAGCATCTGGAGATTTTGTACGTGAGGAGCACAGGCATCAAAGAGCTCC  5613
+
+Query  2240  CGCAAGAGATTGGAGAGCTGAAGCATCTGCGGATTCTGGACGTGAGAAACACGGACATCA  2299
+             | |  ||||| || ||  |||| |||||||||| |||||||||||| ||||||   ||||
+Sbjct  5612  CACGGGAGATCGGGGAAGTGAAACATCTGCGGACTCTGGACGTGAGGAACACGCGGATCA  5553
+
+Query  2300  CTGAGCTCCCACTGCAGATACGGGAGCTGCAGCATCTGCACACTCTGGACGTGAGGAACA  2359
+               ||||||||   ||||||  |||||||  | |||||||  |||||||||||||||||||
+Sbjct  5552  GCGAGCTCCCGTCGCAGATCGGGGAGCTCAAACATCTGCGGACTCTGGACGTGAGGAACA  5493
+
+Query  2360  C  2360
+             |
+Sbjct  5492  C  5492
+
+
+>scaffold71047  5.4
+Length=1678
+
+ Score = 169 bits (91),  Expect = 1e-39
+ Identities = 220/279 (79%), Gaps = 21/279 (8%)
+ Strand=Plus/Minus
+
+Query  2968  GCCATGCCCAACCTCAAGCTTCTCGAGTTCAAGTTCTACGCCGGCC----CA-GCAAGCA  3022
+             ||||||||||| ||||||| ||||||||||||||||||||||||||    || ||   ||
+Sbjct  1403  GCCATGCCCAAGCTCAAGCATCTCGAGTTCAAGTTCTACGCCGGCCGGCCCAGGCGCCCA  1344
+
+Query  3023  ACGATGCCATCGGCATCA-C-CAACCTGAAGAGCCTCCAAAAGGTGGTCTTTCGGTGCTC  3080
+              | |||  ||| | |||| | | |||||   |||||||||||||||||||| || |||||
+Sbjct  1343  GCAATG--ATC-G-ATCACCTCCACCTGCTCAGCCTCCAAAAGGTGGTCTTCCGCTGCTC  1288
+
+Query  3081  GCCATGGTAC-A---AGAGCGACGCCCCTGGCATCAGCGCCACCATTGACGTCGTGAAGA  3136
+                ||||||| |   |||||||||  || |||||||  ||||||||||||||||||||||
+Sbjct  1287  CAAATGGTACAAGCTAGAGCGACGATCCCGGCATCAAGGCCACCATTGACGTCGTGAAGA  1228
+
+Query  3137  AAGAAGCC-GAGG-AGCATCCCAACCGGCCGATCACCCTCCTCATCAATGCTGGGTATAA  3194
+             |||||||  | || ||||||||| | ||| ||||| ||| | ||||| || |||  ||||
+Sbjct  1227  AAGAAGCAAGCGGCAGCATCCCAGCTGGCTGATCAACCTTCACATCACTGATGGCGATAA  1168
+
+Query  3195  GGAGATATCAACT----GAGTCACACGGGAGCAGTGAAA  3229
+             |||| || ||| |    ||| ||||| ||||||||||||
+Sbjct  1167  GGAGGTACCAATTAATTGAGGCACACAGGAGCAGTGAAA  1129
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 969528465400
+
+
+  Database: ../scaffolds/IRIS_313-10287.gapclosed.scaf
+    Posted date:  Nov 4, 2018  12:36 AM
+  Number of letters in database: 289,348,280
+  Number of sequences in database:  144,581
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

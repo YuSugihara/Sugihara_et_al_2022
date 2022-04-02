@@ -1,0 +1,71 @@
+BLASTN 2.7.1+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: ../scaffolds/IRIS_313-10539-k49.scafSeq.gapclosed
+           221,729 sequences; 166,064,457 total letters
+
+
+
+Query= Piks1_Hit
+
+Length=3432
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+scaffold71993  2.4                                                    174     1e-41
+
+
+>scaffold71993  2.4
+Length=2352
+
+ Score = 174 bits (94),  Expect = 1e-41
+ Identities = 221/279 (79%), Gaps = 21/279 (8%)
+ Strand=Plus/Minus
+
+Query  2971  GCCATGCCCAACCTCAAGCTTCTCGAGTTCAAGTTCTACGCCGGCC----CA-GCAAGCA  3025
+             ||||||||||| ||||||| ||||||||||||||||||||||||||    || ||   ||
+Sbjct  800   GCCATGCCCAAGCTCAAGCATCTCGAGTTCAAGTTCTACGCCGGCCGGCCCAGGCGCCCA  741
+
+Query  3026  ACGATGCCATCGGCATCA-C-CAACCTGAAGAGCCTCCAAAAGGTGGTCTTTCGGTGCTC  3083
+              | |||  ||| | || | | | |||||   |||||||||||||||||||| || |||||
+Sbjct  740   GCAATG--ATC-G-ATAACCTCCACCTGCTCAGCCTCCAAAAGGTGGTCTTCCGCTGCTC  685
+
+Query  3084  GCCATGGTAC-A---AGAGCGACGCCCCTGGCATCAGCGCCACCATTGACGTCGTGAAGA  3139
+                ||||||| |   |||||||||  || |||||||  ||||||||||||||||||||||
+Sbjct  684   CAAATGGTACAAGCTAGAGCGACGATCCCGGCATCAAGGCCACCATTGACGTCGTGAAGA  625
+
+Query  3140  AAGAAGCC-GAGG-AGCATCCCAACCGGCCGATCACCCTCCTCATCAATGCTGGGTATAA  3197
+             |||||||  | || ||||||||| ||||||||||| ||| | ||||| || |||  ||||
+Sbjct  624   AAGAAGCAAGCGGCAGCATCCCAGCCGGCCGATCAACCTTCACATCACTGATGGCGATAA  565
+
+Query  3198  GGAGATATCAACT----GAGTCACACGGGAGCAGTGAAA  3232
+             |||| || ||| |    ||| ||||| ||||||||||||
+Sbjct  564   GGAGGTACCAATTAATTGAGGCACACAGGAGCAGTGAAA  526
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 544149977180
+
+
+  Database: ../scaffolds/IRIS_313-10539-k49.scafSeq.gapclosed
+    Posted date:  Nov 4, 2018  12:41 AM
+  Number of letters in database: 166,064,457
+  Number of sequences in database:  221,729
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5
