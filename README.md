@@ -18,14 +18,10 @@
 ### Transposable elements (TEs)
 
 - [Sequences of TEs (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/01_O23/annotations/TE/O23_TE.gff3) curated by [Chuma et al. 2011](https://doi.org/10.1371/journal.ppat.1002147)
-- [Annotation of TEs of O23 genome (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/01_O23/annotations/TE/O23_TE.gff3)
-	
-	TEs other than the curated sequences were removed.
-	
-- [Sequences of solo-LTRs of retrotransposons (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/01_O23/annotations/TE/O23_soloLTR.gff3) curated by [Chuma et al. 2011](https://doi.org/10.1371/journal.ppat.1002147)
-- [Annotation of solo-LTRs of O23 genome (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/01_O23/annotations/TE/O23_soloLTR.gff3)
+- [Annotation of TEs of O23 genome (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/01_O23/annotations/TE/O23_TE.gff3): TEs other than the curated sequences were removed.
 
-	solo-LTRs other than the curated sequences were removed.
+- [Sequences of solo-LTRs of retrotransposons (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/01_O23/annotations/TE/O23_soloLTR.gff3) curated by [Chuma et al. 2011](https://doi.org/10.1371/journal.ppat.1002147)
+- [Annotation of solo-LTRs of O23 genome (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/01_O23/annotations/TE/O23_soloLTR.gff3): solo-LTRs other than the curated sequences were removed.
 
 ## Sequence of AVR-Mgk1
 - [Nucleotide seuqnece of AVR-Mgk1 (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/10_AVR-Mgk1/AVR-Mgk1.nt.fasta)
