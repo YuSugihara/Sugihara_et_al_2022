@@ -11,7 +11,7 @@
 - [Amino acid seuqnece of AVR-Mgk1 (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/10_AVR-Mgk1/AVR-Mgk1.aa.fasta)
 
 ## Predicted protein structure of AVR-Mgk1
-- [Nucleotide seuqnece of AVR-Mgk1](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/10_AVR-Mgk1/AVR-Mgk1.nt.fasta)
+- [Protein structure of AVR-Mgk1 (PDB)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/10_AVR-Mgk1/AVR-Mgk1_AlphaFold2.pdb)
 
 ## Sequence of AVR-PikD_O23
 - [Nucleotide seuqnece of AVR-PikD_O23 (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/20_AVR-PikD_O23/AVR-PikD_O23.nt.fasta)
