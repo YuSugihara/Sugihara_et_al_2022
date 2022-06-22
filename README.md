@@ -18,10 +18,9 @@
 ### Transposable elements (TEs)
 
 - [Sequences of TEs (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/01_O23/annotations/TE/O23_TE.gff3) curated by [Chuma et al. 2011](https://doi.org/10.1371/journal.ppat.1002147)
-- [Annotation of TEs of O23 genome (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/01_O23/annotations/TE/O23_TE.gff3)
+- [Annotation of TEs of O23 genome (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/01_O23/annotations/TE/O23_TE.gff3)<summary>TEs other than the curated sequences were removed.</summary>
 - [Sequences of solo-LTRs of retrotransposons (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/01_O23/annotations/TE/O23_soloLTR.gff3) curated by [Chuma et al. 2011](https://doi.org/10.1371/journal.ppat.1002147)
-- [Annotation of solo-LTRs of O23 genome (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/01_O23/annotations/TE/O23_soloLTR.gff3)
-
+- [Annotation of solo-LTRs of O23 genome (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/01_O23/annotations/TE/O23_soloLTR.gff3) <summary>solo-LTRs other than the curated sequences were removed.</summary>
 
 ## Sequence of AVR-Mgk1
 - [Nucleotide seuqnece of AVR-Mgk1 (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/10_AVR-Mgk1/AVR-Mgk1.nt.fasta)
@@ -33,7 +32,6 @@
 ## Sequence of AVR-PikD_O23
 - [Nucleotide seuqnece of AVR-PikD_O23 (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/20_AVR-PikD_O23/AVR-PikD_O23.nt.fasta)
 - [Amino acid seuqnece of AVR-PikD_O23 (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/20_AVR-PikD_O23/AVR-PikD_O23.aa.fasta)
-
 
 ## Effector sequences used for TRIBE-MCL
 - [Effector sequences of Magnaporthe oryzae (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_TRIBE-MCL/Mo_Effectors.faa)
