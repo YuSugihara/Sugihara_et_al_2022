@@ -34,4 +34,4 @@
 - [Amino acid seuqnece of AVR-PikD_O23 (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/20_AVR-PikD_O23/AVR-PikD_O23.aa.fasta)
 
 ## Effector sequences used for TRIBE-MCL
-- [Effector sequences of Magnaporthe oryzae (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_TRIBE-MCL/Mo_Effectors.faa)
+- [Effector sequences of Magnaporthe oryzae (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_TRIBE-MCL/Mo_Effectors.faa) based on [Petit-Houdenot et al. 2020](https://doi.org/10.1094/MPMI-03-20-0052-A)
