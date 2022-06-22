@@ -1,6 +1,26 @@
 
 # Datasets used in Sugihara et al. 2022
 
+## Genome sequences
+- [O23 genome sequence (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/01_O23/O23_v1.0.fasta)
+- [TH3o genome sequence (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/02_TH3o/TH3o_v1.0.fasta)
+- [d44a genome sequence (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/03_d44a/d44a_v1.0.fasta)
+
+## Sequence of AVR-Mgk1
+- [Nucleotide seuqnece of AVR-Mgk1 (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/10_AVR-Mgk1/AVR-Mgk1.nt.fasta)
+- [Amino acid seuqnece of AVR-Mgk1 (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/10_AVR-Mgk1/AVR-Mgk1.aa.fasta)
+
+## Predicted protein structure of AVR-Mgk1
+- [Nucleotide seuqnece of AVR-Mgk1](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/10_AVR-Mgk1/AVR-Mgk1.nt.fasta)
+
+## Sequence of AVR-PikD_O23
+- [Nucleotide seuqnece of AVR-PikD_O23 (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/20_AVR-PikD_O23/AVR-PikD_O23.nt.fasta)
+- [Amino acid seuqnece of AVR-PikD_O23 (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/20_AVR-PikD_O23/AVR-PikD_O23.aa.fasta)
+
+
+## Effector sequences used for TRIBE-MCL
+- [Effector sequences of Magnaporthe oryzae (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_TRIBE-MCL/Mo_Effectors.faa)
+
 ```
 This_repository
 ├── 00_reference_genomes
