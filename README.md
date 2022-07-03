@@ -16,12 +16,13 @@
 - [Pik-1 tree](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/20_Pik_trees/Pik-1_aln_seq.treefile) recontructed with [IQ-TREE](https://doi.org/10.1093/molbev/msaa015)
 - [Pik-2 tree](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/20_Pik_trees/Pik-2_aln_seq.treefile) recontructed with [IQ-TREE](https://doi.org/10.1093/molbev/msaa015)
 
-## *Magnaporthe oryzae* genome sequences
+## *Magnaporthe oryzae* genome sequences and anontations
+
+### Genome sequences
+
 - [O23 genome sequence (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/O23_v1.0.fasta.gz)
 - [TH3o genome sequence (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/32_TH3o/TH3o_v1.0.fasta.gz)
 - [d44a genome sequence (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/33_d44a/d44a_v1.0.fasta.gz)
-
-## Genome annotations
 
 ### RNA-seq during barley infection
 
