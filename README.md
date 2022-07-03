@@ -22,14 +22,20 @@
 - [Sequences of solo-LTRs of retrotransposons (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/annotations/TE/soloLTR.fasta) curated in [Chuma et al. 2011](https://doi.org/10.1371/journal.ppat.1002147)
 - [Annotation of solo-LTRs of O23 genome (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/annotations/TE/O23_soloLTR.gff3)
 
-## Sequence of AVR-Mgk1
+## AVR-Mgk1
+
+### Sequence
+
 - [Nucleotide seuqnece of AVR-Mgk1 (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/50_AVR-Mgk1/AVR-Mgk1.nt.fasta)
 - [Amino acid seuqnece of AVR-Mgk1 (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/50_AVR-Mgk1/AVR-Mgk1.aa.fasta)
 
-## Predicted protein structure of AVR-Mgk1
+## Predicted protein structure
 - [Predicted protein structure of AVR-Mgk1 (PDB)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/50_AVR-Mgk1/AVR-Mgk1_AlphaFold2.pdb)
 
-## Sequence of AVR-PikD_O23
+## AVR-PikD_O23
+
+### Sequence
+
 - [Nucleotide seuqnece of AVR-PikD_O23 (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/60_AVR-PikD_O23/AVR-PikD_O23.nt.fasta)
 - [Amino acid seuqnece of AVR-PikD_O23 (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/60_AVR-PikD_O23/AVR-PikD_O23.aa.fasta)
 
