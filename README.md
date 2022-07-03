@@ -2,9 +2,9 @@
 # Datasets used in Sugihara et al. 2022
 
 ## Genome sequences
-- [O23 genome sequence (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/01_O23/O23_v1.0.fasta)
-- [TH3o genome sequence (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/02_TH3o/TH3o_v1.0.fasta)
-- [d44a genome sequence (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/03_d44a/d44a_v1.0.fasta)
+- [O23 genome sequence (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/01_O23/O23_v1.0.fasta.gz)
+- [TH3o genome sequence (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/02_TH3o/TH3o_v1.0.fasta.gz)
+- [d44a genome sequence (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_reference_genomes/03_d44a/d44a_v1.0.fasta.gz)
 
 ## Genome annotations
 

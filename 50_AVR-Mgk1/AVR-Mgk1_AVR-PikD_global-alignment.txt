@@ -1,0 +1,17 @@
+
+Query	AVR-Mgk1
+Sbjct	AVR-PikD
+
+
+NW Score	Identities	Positives	Gaps
+-66	12/116(10%)	30/116(25%)	24/116(20%)
+
+
+Query  1    MWSKSTIVTSAALLLFNQAALVAARNCRIWQDMGSV---------WQEVVVVTPPVTVDI  51
+            M        +  LL     A+V A     + +  ++         + +   +  P     
+Sbjct  1    M---RVTTFNTFLLTLGTVAVVNAETGNKYIEKRAIDLSRERDPNFFDHPGIPVPECFWF  57
+
+Query  52   ITKR---------HGAFSLFVPVGCG---IRDTGGALRATETDDPW            85
+            + K          + ++ + + VG     I+       + +    W          
+Sbjct  58   MFKNNVRQDAGTCYSSWKMDMKVGPNWVHIKSDDNCNLSGDFPPGWIVLGKKRPGF  113
+
