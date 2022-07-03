@@ -22,7 +22,7 @@
 - [Sequences of solo-LTRs of retrotransposons (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/annotations/TE/soloLTR.fasta) curated in [Chuma et al. 2011](https://doi.org/10.1371/journal.ppat.1002147)
 - [Annotation of solo-LTRs of O23 genome (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/annotations/TE/O23_soloLTR.gff3)
 
-## AVR-Mgk1
+## Dataset of AVR-Mgk1
 
 ### Sequence
 
@@ -30,14 +30,14 @@
 - [Amino acid seuqnece of AVR-Mgk1 (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/50_AVR-Mgk1/AVR-Mgk1.aa.fasta)
 
 ### Predicted protein structure
-- [Predicted protein structure of AVR-Mgk1 (PDB)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/50_AVR-Mgk1/AVR-Mgk1_AlphaFold2.pdb)
+- [Predicted protein structure of AVR-Mgk1 (PDB)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/50_AVR-Mgk1/AVR-Mgk1_AlphaFold2.pdb) using [AlphaFold2](https://doi.org/10.1038/s41586-021-03819-2)
 
 ### Alignment to AVR-PikD
 
 - [Global alignment of AVR-Mgk1 to AVR-PikD](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/50_AVR-Mgk1/AVR-Mgk1_AVR-PikD_global-alignment.txt) using [the Needleman-Wunsch algorithm](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&PROG_DEF=blastn&BLAST_PROG_DEF=blastn&BLAST_SPEC=GlobalAln&LINK_LOC=BlastHomeLink)
 - [Structure-based alignment of AVR-Mgk1 to AVR-PikD](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/50_AVR-Mgk1/AVR-Mgk1_AVR-PikD_TM-align.txt) using [TM-align](https://zhanggroup.org/TM-align)
 
-## AVR-PikD_O23
+## Dataset of AVR-PikD_O23
 
 ### Sequence
 
