@@ -3,7 +3,7 @@
 
 ## Genotypes of rice RILs for association analysis
 
-- [The VCF file](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/10_RIL_VCF/N19_imputed_SNP_filtered.vcf.gz) includes the genotypes of the two parental rice cultivars Hitomebore and Moukoto and their 249 recombinant inbred lines (RILs). This VCF file was generated based on [the Os-Nipponbare-Reference-IRGSP-1.0 reference genome](https://rapdb.dna.affrc.go.jp/download/irgsp1.html) published in [Kawahara et al. (2013)](https://doi.org/10.1186/1939-8433-6-4).
+[The VCF file](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/10_RIL_VCF/N19_imputed_SNP_filtered.vcf.gz) includes the genotypes of the two parental rice cultivars Hitomebore and Moukoto and their 249 recombinant inbred lines (RILs). This VCF file was generated based on [the Os-Nipponbare-Reference-IRGSP-1.0 reference genome](https://rapdb.dna.affrc.go.jp/download/irgsp1.html) published in [Kawahara et al. (2013)](https://doi.org/10.1186/1939-8433-6-4).
 
 ## Hitomebore genome sequence
 
@@ -40,7 +40,7 @@
 
 ## Genotypes of *M. oryzae* F1 progeny for association analysis
 
-- [The CSV file](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/40_TH3o_x_O23/O23_v1.0.Chr-SNP_ctng-PA.rrBLUP.csv) includes the genotypes of the 144 F1 progeny derived from a cross between the *M. oryzae* isolates TH3o and O23. The genotypes were generated based on [the O23 reference genome](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/O23_v1.0.fasta.gz). The genotypes "0" and "1" in the file represent the genotypes derived from O23 and TH3o, respectively.
+[The CSV file](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/40_TH3o_x_O23/O23_v1.0.Chr-SNP_ctng-PA.rrBLUP.csv) includes the genotypes of the 144 F1 progeny derived from a cross between the *M. oryzae* isolates TH3o and O23. The genotypes were generated based on [the O23 reference genome](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/O23_v1.0.fasta.gz). The genotypes "0" and "1" in the file represent the genotypes derived from O23 and TH3o, respectively.
 
 ## Dataset of AVR-Mgk1
 
