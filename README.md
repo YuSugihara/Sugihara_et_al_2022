@@ -1,9 +1,13 @@
 
 # Datasets used in Sugihara et al. 2022
 
+## VCF file of rice 249 RILs
+
+- [VCF file]() of RILs derived from a cross between Hitomebore and Moukoto 
+
 ## Hitomebore genome
 
-- [Hitomebore genome sequence (FASTA)]()
+- [Hitomebore genome sequence (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_Hitomebore_genome/Os_Hitomebore_v1.0.fasta.gz)
 
 ## Pik trees
 
