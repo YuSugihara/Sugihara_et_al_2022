@@ -9,7 +9,7 @@
 
 - [Hitomebore genome sequence (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/00_Hitomebore_genome/Os_Hitomebore_v1.0.fasta.gz)
 
-## Pik trees
+## Reconstructed Pik trees
 
 - [Pik-1 nucleotide sequences (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/20_Pik_trees/Pik-1_aln_seq.fasta) aligned with [MAFFT](https://doi.org/10.1093/molbev/mst010)
 - [Pik-2 nucleotide sequences (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/20_Pik_trees/Pik-2_aln_seq.fasta) aligned with [MAFFT](https://doi.org/10.1093/molbev/mst010)
