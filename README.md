@@ -35,8 +35,8 @@
 
 - [Sequences of TEs (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/annotations/TE/transposon.fasta) curated in [Chuma et al. (2011)](https://doi.org/10.1371/journal.ppat.1002147)
 - [Annotation of TEs of O23 genome (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/annotations/TE/O23_TE.gff3)
-- [Sequences of solo-LTRs of retrotransposons (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/annotations/TE/soloLTR.fasta) curated in [Chuma et al. (2011)](https://doi.org/10.1371/journal.ppat.1002147)
-- [Annotation of solo-LTRs of O23 genome (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/annotations/TE/O23_soloLTR.gff3)
+- [Sequences of LTRs of retrotransposons (FASTA)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/annotations/TE/LTR.fasta) curated in [Chuma et al. (2011)](https://doi.org/10.1371/journal.ppat.1002147)
+- [Annotation of LTRs of O23 genome (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/annotations/TE/O23_LTR.gff3)
 
 ## Genotypes of *M. oryzae* F1 progeny for association analysis
 
