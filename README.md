@@ -26,10 +26,10 @@
 
 ### RNA-seq during barley infection
 
-- [Gene expression of O23 at 24 hours after barley infection (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/annotations/RNA-seq/O23_24h.gtf)
-- [Gene expression of O23 at 48 hours after barley infection (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/annotations/RNA-seq/O23_48h.gtf)
-- [Gene expression of TH3o at 24 hours after barley infection (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/32_TH3o/annotations/RNA-seq/TH3o_24h.gtf)
-- [Gene expression of TH3o at 48 hours after barley infection (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/32_TH3o/annotations/RNA-seq/TH3o_48h.gtf)
+- [Gene expression of O23 at 24 hours after barley infection (GTF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/annotations/RNA-seq/O23_24h.gtf)
+- [Gene expression of O23 at 48 hours after barley infection (GTF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/annotations/RNA-seq/O23_48h.gtf)
+- [Gene expression of TH3o at 24 hours after barley infection (GTF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/32_TH3o/annotations/RNA-seq/TH3o_24h.gtf)
+- [Gene expression of TH3o at 48 hours after barley infection (GTF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/32_TH3o/annotations/RNA-seq/TH3o_48h.gtf)
 
 ### Transposable elements (TEs)
 
