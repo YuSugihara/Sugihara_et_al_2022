@@ -39,7 +39,7 @@
 - [Annotation of LTRs of O23 genome (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/annotations/TE/O23_LTR.gff3)
 
 ### Gene annotation trasfered from 70-15 to O23
-- [Gene annotation trasfered from 70-15 to O23 (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/annotations/70-15_to_O23.gff3)
+- [Gene annotation trasferred from 70-15 to O23 (GFF)](https://github.com/YuSugihara/Sugihara_et_al_2022/blob/master/30_Mo_genome/31_O23/annotations/70-15_to_O23.gff3)
 
 ## Genotypes of *M. oryzae* F1 progeny for association analysis
 
